@@ -4,6 +4,8 @@
   "description": "All the cities in Romnia with their population based on the 2002 and 2011 censuses.",
   "main": "index.js",
   "scripts": {
+    "dev": "watch \"npm run build\" src",
+    "build": "babel src -d build --copy-files",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -24,5 +26,10 @@
   "bugs": {
     "url": "https://github.com/bogdanlungu/romanian-cities/issues"
   },
-  "homepage": "https://github.com/bogdanlungu/romanian-cities#readme"
+  "homepage": "https://github.com/bogdanlungu/romanian-cities#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-latest": "^6.24.1",
+    "watch": "^1.0.2"
+  }
 }
