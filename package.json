@@ -1,0 +1,28 @@
+{
+  "name": "romanian-cities",
+  "version": "1.0.0",
+  "description": "All the cities in Romnia with their population based on the 2002 and 2011 censuses.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bogdanlungu/romanian-cities.git"
+  },
+  "keywords": [
+    "romania",
+    "cities",
+    "towns",
+    "population",
+    "counties",
+    "geography",
+    "geolocation"
+  ],
+  "author": "Bogdan Lungu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bogdanlungu/romanian-cities/issues"
+  },
+  "homepage": "https://github.com/bogdanlungu/romanian-cities#readme"
+}
