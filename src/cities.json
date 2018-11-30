@@ -1,0 +1,1922 @@
+[
+  {
+    "city": "Bucuresti",
+    "county": "",
+    "population_2011": 1883425,
+    "population_2002": 1926334
+  },
+  {
+    "city": "Cluj-Napoca",
+    "county": "Cluj",
+    "population_2011": 324576,
+    "population_2002": 317953
+  },
+  {
+    "city": "Timisoara",
+    "county": "Timis",
+    "population_2011": 319279,
+    "population_2002": 317660
+  },
+  {
+    "city": "Iasi",
+    "county": "Iasi",
+    "population_2011": 290422,
+    "population_2002": 320888
+  },
+  {
+    "city": "Constanta",
+    "county": "Constanta",
+    "population_2011": 283872,
+    "population_2002": 310471
+  },
+  {
+    "city": "Craiova",
+    "county": "Dolj",
+    "population_2011": 269506,
+    "population_2002": 302601
+  },
+  {
+    "city": "Brasov",
+    "county": "Brasov",
+    "population_2011": 253200,
+    "population_2002": 284596
+  },
+  {
+    "city": "Galati",
+    "county": "Galati",
+    "population_2011": 249432,
+    "population_2002": 298861
+  },
+  {
+    "city": "Ploiesti",
+    "county": "Prahova",
+    "population_2011": 209945,
+    "population_2002": 232527
+  },
+  {
+    "city": "Oradea",
+    "county": "Bihor",
+    "population_2011": 196367,
+    "population_2002": 206614
+  },
+  {
+    "city": "Braila",
+    "county": "Braila",
+    "population_2011": 180302,
+    "population_2002": 216292
+  },
+  {
+    "city": "Arad",
+    "county": "Arad",
+    "population_2011": 159074,
+    "population_2002": 172824
+  },
+  {
+    "city": "Pitesti",
+    "county": "Arges",
+    "population_2011": 155383,
+    "population_2002": 168458
+  },
+  {
+    "city": "Sibiu",
+    "county": "Sibiu",
+    "population_2011": 147245,
+    "population_2002": 154892
+  },
+  {
+    "city": "Bacau",
+    "county": "Bacau",
+    "population_2011": 144307,
+    "population_2002": 175500
+  },
+  {
+    "city": "Targu Mures",
+    "county": "Mures",
+    "population_2011": 134290,
+    "population_2002": 149577
+  },
+  {
+    "city": "Baia Mare",
+    "county": "Maramures",
+    "population_2011": 123738,
+    "population_2002": 137976
+  },
+  {
+    "city": "Buzau",
+    "county": "Buzau",
+    "population_2011": 115494,
+    "population_2002": 133116
+  },
+  {
+    "city": "Botosani",
+    "county": "Botosani",
+    "population_2011": 106847,
+    "population_2002": 115344
+  },
+  {
+    "city": "Satu Mare",
+    "county": "Satu Mare",
+    "population_2011": 102411,
+    "population_2002": 115630
+  },
+  {
+    "city": "Ramnicu Valcea",
+    "county": "Valcea",
+    "population_2011": 98776,
+    "population_2002": 107656
+  },
+  {
+    "city": "Drobeta-Turnu Severin",
+    "county": "Mehedinti",
+    "population_2011": 92617,
+    "population_2002": 104035
+  },
+  {
+    "city": "Suceava",
+    "county": "Suceava",
+    "population_2011": 92121,
+    "population_2002": 106138
+  },
+  {
+    "city": "Piatra Neamt",
+    "county": "Neamt",
+    "population_2011": 85055,
+    "population_2002": 105499
+  },
+  {
+    "city": "Targu Jiu",
+    "county": "Gorj",
+    "population_2011": 82504,
+    "population_2002": 96562
+  },
+  {
+    "city": "Targoviste",
+    "county": "Dambovita",
+    "population_2011": 79610,
+    "population_2002": 89429
+  },
+  {
+    "city": "Focsani",
+    "county": "Vrancea",
+    "population_2011": 79315,
+    "population_2002": 103219
+  },
+  {
+    "city": "Bistrita",
+    "county": "Bistrita-Nasaud",
+    "population_2011": 75076,
+    "population_2002": 81467
+  },
+  {
+    "city": "Tulcea",
+    "county": "Tulcea",
+    "population_2011": 73707,
+    "population_2002": 92762
+  },
+  {
+    "city": "Resita",
+    "county": "Caras-Severin",
+    "population_2011": 73282,
+    "population_2002": 83985
+  },
+  {
+    "city": "Slatina",
+    "county": "Olt",
+    "population_2011": 70293,
+    "population_2002": 79171
+  },
+  {
+    "city": "Calarasi",
+    "county": "Calarasi",
+    "population_2011": 65181,
+    "population_2002": 70039
+  },
+  {
+    "city": "Alba Iulia",
+    "county": "Alba",
+    "population_2011": 63536,
+    "population_2002": 66369
+  },
+  {
+    "city": "Giurgiu",
+    "county": "Giurgiu",
+    "population_2011": 61353,
+    "population_2002": 69587
+  },
+  {
+    "city": "Deva",
+    "county": "Hunedoara",
+    "population_2011": 61123,
+    "population_2002": 69390
+  },
+  {
+    "city": "Hunedoara",
+    "county": "Hunedoara",
+    "population_2011": 60525,
+    "population_2002": 71380
+  },
+  {
+    "city": "Zalau",
+    "county": "Salaj",
+    "population_2011": 56202,
+    "population_2002": 63305
+  },
+  {
+    "city": "Sfantu Gheorghe",
+    "county": "Covasna",
+    "population_2011": 56006,
+    "population_2002": 61512
+  },
+  {
+    "city": "Barlad",
+    "county": "Vaslui",
+    "population_2011": 55837,
+    "population_2002": 69183
+  },
+  {
+    "city": "Vaslui",
+    "county": "Vaslui",
+    "population_2011": 55407,
+    "population_2002": 70267
+  },
+  {
+    "city": "Roman",
+    "county": "Neamt",
+    "population_2011": 50713,
+    "population_2002": 69483
+  },
+  {
+    "city": "Turda",
+    "county": "Cluj",
+    "population_2011": 47744,
+    "population_2002": 55770
+  },
+  {
+    "city": "Medias",
+    "county": "Sibiu",
+    "population_2011": 47204,
+    "population_2002": 55203
+  },
+  {
+    "city": "Slobozia",
+    "county": "Ialomita",
+    "population_2011": 45891,
+    "population_2002": 52677
+  },
+  {
+    "city": "Alexandria",
+    "county": "Teleorman",
+    "population_2011": 45434,
+    "population_2002": 50591
+  },
+  {
+    "city": "Voluntari",
+    "county": "Ilfov",
+    "population_2011": 42944,
+    "population_2002": 30016
+  },
+  {
+    "city": "Lugoj",
+    "county": "Timis",
+    "population_2011": 40361,
+    "population_2002": 44571
+  },
+  {
+    "city": "Medgidia",
+    "county": "Constanta",
+    "population_2011": 39780,
+    "population_2002": 43867
+  },
+  {
+    "city": "Onesti",
+    "county": "Bacau",
+    "population_2011": 39172,
+    "population_2002": 51681
+  },
+  {
+    "city": "Miercurea Ciuc",
+    "county": "Harghita",
+    "population_2011": 38966,
+    "population_2002": 41852
+  },
+  {
+    "city": "Sighetu Marmatiei",
+    "county": "Maramures",
+    "population_2011": 37640,
+    "population_2002": 41246
+  },
+  {
+    "city": "Petrosani",
+    "county": "Hunedoara",
+    "population_2011": 37160,
+    "population_2002": 45447
+  },
+  {
+    "city": "Mangalia",
+    "county": "Constanta",
+    "population_2011": 36364,
+    "population_2002": 40037
+  },
+  {
+    "city": "Tecuci",
+    "county": "Galati",
+    "population_2011": 34871,
+    "population_2002": 42012
+  },
+  {
+    "city": "Odorheiu Secuiesc",
+    "county": "Harghita",
+    "population_2011": 34257,
+    "population_2002": 36926
+  },
+  {
+    "city": "Ramnicu Sarat",
+    "county": "Buzau",
+    "population_2011": 33843,
+    "population_2002": 38805
+  },
+  {
+    "city": "Pascani",
+    "county": "Iasi",
+    "population_2011": 33745,
+    "population_2002": 42172
+  },
+  {
+    "city": "Dej",
+    "county": "Cluj",
+    "population_2011": 33497,
+    "population_2002": 38478
+  },
+  {
+    "city": "Reghin",
+    "county": "Mures",
+    "population_2011": 33281,
+    "population_2002": 36023
+  },
+  {
+    "city": "Navodari",
+    "county": "Constanta",
+    "population_2011": 32981,
+    "population_2002": 32400
+  },
+  {
+    "city": "Campina",
+    "county": "Prahova",
+    "population_2011": 32935,
+    "population_2002": 38758
+  },
+  {
+    "city": "Mioveni",
+    "county": "Arges",
+    "population_2011": 31998,
+    "population_2002": 35849
+  },
+  {
+    "city": "Campulung",
+    "county": "Arges",
+    "population_2011": 31767,
+    "population_2002": 38285
+  },
+  {
+    "city": "Caracal",
+    "county": "Olt",
+    "population_2011": 30954,
+    "population_2002": 34603
+  },
+  {
+    "city": "Sacele",
+    "county": "Brasov",
+    "population_2011": 30798,
+    "population_2002": 29967
+  },
+  {
+    "city": "Fagaras",
+    "county": "Brasov",
+    "population_2011": 30714,
+    "population_2002": 36121
+  },
+  {
+    "city": "Fetesti",
+    "county": "Ialomita",
+    "population_2011": 30217,
+    "population_2002": 33197
+  },
+  {
+    "city": "Sighisoara",
+    "county": "Mures",
+    "population_2011": 28102,
+    "population_2002": 32287
+  },
+  {
+    "city": "Borsa",
+    "county": "Maramures",
+    "population_2011": 27611,
+    "population_2002": 27247
+  },
+  {
+    "city": "Rosiorii de Vede",
+    "county": "Teleorman",
+    "population_2011": 27416,
+    "population_2002": 31873
+  },
+  {
+    "city": "Curtea de Arges",
+    "county": "Arges",
+    "population_2011": 27359,
+    "population_2002": 32626
+  },
+  {
+    "city": "Sebes",
+    "county": "Alba",
+    "population_2011": 27019,
+    "population_2002": 29475
+  },
+  {
+    "city": "Husi",
+    "county": "Vaslui",
+    "population_2011": 26266,
+    "population_2002": 33320
+  },
+  {
+    "city": "Falticeni",
+    "county": "Suceava",
+    "population_2011": 25723,
+    "population_2002": 33867
+  },
+  {
+    "city": "Pantelimon",
+    "county": "Ilfov",
+    "population_2011": 25596,
+    "population_2002": 16019
+  },
+  {
+    "city": "Oltenita",
+    "county": "Calarasi",
+    "population_2011": 24822,
+    "population_2002": 31434
+  },
+  {
+    "city": "Turnu Magurele",
+    "county": "Teleorman",
+    "population_2011": 24772,
+    "population_2002": 30187
+  },
+  {
+    "city": "Caransebes",
+    "county": "Caras-Severin",
+    "population_2011": 24689,
+    "population_2002": 31199
+  },
+  {
+    "city": "Dorohoi",
+    "county": "Botosani",
+    "population_2011": 24309,
+    "population_2002": 31073
+  },
+  {
+    "city": "Vulcan",
+    "county": "Hunedoara",
+    "population_2011": 24160,
+    "population_2002": 33186
+  },
+  {
+    "city": "Radauti",
+    "county": "Suceava",
+    "population_2011": 23822,
+    "population_2002": 32151
+  },
+  {
+    "city": "Zarnesti",
+    "county": "Brasov",
+    "population_2011": 23476,
+    "population_2002": 26520
+  },
+  {
+    "city": "Lupeni",
+    "county": "Hunedoara",
+    "population_2011": 23390,
+    "population_2002": 31409
+  },
+  {
+    "city": "Aiud",
+    "county": "Alba",
+    "population_2011": 22876,
+    "population_2002": 28909
+  },
+  {
+    "city": "Petrila",
+    "county": "Hunedoara",
+    "population_2011": 22692,
+    "population_2002": 28742
+  },
+  {
+    "city": "Campia Turzii",
+    "county": "Cluj",
+    "population_2011": 22223,
+    "population_2002": 29852
+  },
+  {
+    "city": "Buftea",
+    "county": "Ilfov",
+    "population_2011": 22178,
+    "population_2002": 19617
+  },
+  {
+    "city": "Tarnaveni",
+    "county": "Mures",
+    "population_2011": 22075,
+    "population_2002": 29828
+  },
+  {
+    "city": "Popesti-Leordeni",
+    "county": "Ilfov",
+    "population_2011": 21895,
+    "population_2002": 15115
+  },
+  {
+    "city": "Moinesti",
+    "county": "Bacau",
+    "population_2011": 21787,
+    "population_2002": 25532
+  },
+  {
+    "city": "Codlea",
+    "county": "Brasov",
+    "population_2011": 21708,
+    "population_2002": 24814
+  },
+  {
+    "city": "Cugir",
+    "county": "Alba",
+    "population_2011": 21376,
+    "population_2002": 30244
+  },
+  {
+    "city": "Carei",
+    "county": "Satu Mare",
+    "population_2011": 21112,
+    "population_2002": 25590
+  },
+  {
+    "city": "Gherla",
+    "county": "Cluj",
+    "population_2011": 20982,
+    "population_2002": 24232
+  },
+  {
+    "city": "Blaj",
+    "county": "Alba",
+    "population_2011": 20630,
+    "population_2002": 21819
+  },
+  {
+    "city": "Comanesti",
+    "county": "Bacau",
+    "population_2011": 19568,
+    "population_2002": 26237
+  },
+  {
+    "city": "Motru",
+    "county": "Gorj",
+    "population_2011": 19079,
+    "population_2002": 25860
+  },
+  {
+    "city": "Targu Neamt",
+    "county": "Neamt",
+    "population_2011": 18695,
+    "population_2002": 22634
+  },
+  {
+    "city": "Moreni",
+    "county": "Dambovita",
+    "population_2011": 18687,
+    "population_2002": 22868
+  },
+  {
+    "city": "Targu Secuiesc",
+    "county": "Covasna",
+    "population_2011": 18491,
+    "population_2002": 22251
+  },
+  {
+    "city": "Gheorgheni",
+    "county": "Harghita",
+    "population_2011": 18377,
+    "population_2002": 21245
+  },
+  {
+    "city": "Orastie",
+    "county": "Hunedoara",
+    "population_2011": 18227,
+    "population_2002": 24354
+  },
+  {
+    "city": "Bals",
+    "county": "Olt",
+    "population_2011": 18164,
+    "population_2002": 23147
+  },
+  {
+    "city": "Baicoi",
+    "county": "Prahova",
+    "population_2011": 17981,
+    "population_2002": 20234
+  },
+  {
+    "city": "Dragasani",
+    "county": "Valcea",
+    "population_2011": 17871,
+    "population_2002": 22499
+  },
+  {
+    "city": "Salonta",
+    "county": "Bihor",
+    "population_2011": 17735,
+    "population_2002": 20006
+  },
+  {
+    "city": "Bailesti",
+    "county": "Dolj",
+    "population_2011": 17437,
+    "population_2002": 22231
+  },
+  {
+    "city": "Calafat",
+    "county": "Dolj",
+    "population_2011": 17336,
+    "population_2002": 21227
+  },
+  {
+    "city": "Cernavoda",
+    "county": "Constanta",
+    "population_2011": 17022,
+    "population_2002": 20514
+  },
+  {
+    "city": "Filiasi",
+    "county": "Dolj",
+    "population_2011": 16900,
+    "population_2002": 20159
+  },
+  {
+    "city": "Campulung Moldovenesc",
+    "county": "Suceava",
+    "population_2011": 16722,
+    "population_2002": 21862
+  },
+  {
+    "city": "Corabia",
+    "county": "Olt",
+    "population_2011": 16441,
+    "population_2002": 21932
+  },
+  {
+    "city": "Adjud",
+    "county": "Vrancea",
+    "population_2011": 16045,
+    "population_2002": 20776
+  },
+  {
+    "city": "Breaza",
+    "county": "Prahova",
+    "population_2011": 15928,
+    "population_2002": 18863
+  },
+  {
+    "city": "Bocsa",
+    "county": "Caras-Severin",
+    "population_2011": 15842,
+    "population_2002": 19023
+  },
+  {
+    "city": "Marghita",
+    "county": "Bihor",
+    "population_2011": 15770,
+    "population_2002": 18650
+  },
+  {
+    "city": "Baia Sprie",
+    "county": "Maramures",
+    "population_2011": 15476,
+    "population_2002": 15735
+  },
+  {
+    "city": "Bragadiru",
+    "county": "Ilfov",
+    "population_2011": 15329,
+    "population_2002": 8165
+  },
+  {
+    "city": "Ludus",
+    "county": "Mures",
+    "population_2011": 15328,
+    "population_2002": 18647
+  },
+  {
+    "city": "Urziceni",
+    "county": "Ialomita",
+    "population_2011": 15308,
+    "population_2002": 19088
+  },
+  {
+    "city": "Viseu de Sus",
+    "county": "Maramures",
+    "population_2011": 15037,
+    "population_2002": 18444
+  },
+  {
+    "city": "Rasnov",
+    "county": "Brasov",
+    "population_2011": 15022,
+    "population_2002": 16242
+  },
+  {
+    "city": "Buhusi",
+    "county": "Bacau",
+    "population_2011": 14562,
+    "population_2002": 21993
+  },
+  {
+    "city": "Stefanesti",
+    "county": "Arges",
+    "population_2011": 14541,
+    "population_2002": 12983
+  },
+  {
+    "city": "Brad",
+    "county": "Hunedoara",
+    "population_2011": 14495,
+    "population_2002": 18075
+  },
+  {
+    "city": "Simleu Silvaniei",
+    "county": "Salaj",
+    "population_2011": 14436,
+    "population_2002": 17053
+  },
+  {
+    "city": "Vatra Dornei",
+    "county": "Suceava",
+    "population_2011": 14429,
+    "population_2002": 17864
+  },
+  {
+    "city": "Mizil",
+    "county": "Prahova",
+    "population_2011": 14312,
+    "population_2002": 17075
+  },
+  {
+    "city": "Cisnadie",
+    "county": "Sibiu",
+    "population_2011": 14282,
+    "population_2002": 17204
+  },
+  {
+    "city": "Pucioasa",
+    "county": "Dambovita",
+    "population_2011": 14254,
+    "population_2002": 16489
+  },
+  {
+    "city": "Chitila",
+    "county": "Ilfov",
+    "population_2011": 14184,
+    "population_2002": 12643
+  },
+  {
+    "city": "Zimnicea",
+    "county": "Teleorman",
+    "population_2011": 14058,
+    "population_2002": 16787
+  },
+  {
+    "city": "Toplita",
+    "county": "Harghita",
+    "population_2011": 13929,
+    "population_2002": 16839
+  },
+  {
+    "city": "Otopeni",
+    "county": "Ilfov",
+    "population_2011": 13861,
+    "population_2002": 10515
+  },
+  {
+    "city": "Ovidiu",
+    "county": "Constanta",
+    "population_2011": 13847,
+    "population_2002": 13458
+  },
+  {
+    "city": "Gura Humorului",
+    "county": "Suceava",
+    "population_2011": 13667,
+    "population_2002": 16740
+  },
+  {
+    "city": "Gaesti",
+    "county": "Dambovita",
+    "population_2011": 13317,
+    "population_2002": 16598
+  },
+  {
+    "city": "Vicovu de Sus",
+    "county": "Suceava",
+    "population_2011": 13308,
+    "population_2002": 14125
+  },
+  {
+    "city": "Tandarei",
+    "county": "Ialomita",
+    "population_2011": 13219,
+    "population_2002": 14591
+  },
+  {
+    "city": "Ocna Mures",
+    "county": "Alba",
+    "population_2011": 13036,
+    "population_2002": 15697
+  },
+  {
+    "city": "Bolintin-Vale",
+    "county": "Giurgiu",
+    "population_2011": 12929,
+    "population_2002": 11464
+  },
+  {
+    "city": "Avrig",
+    "county": "Sibiu",
+    "population_2011": 12815,
+    "population_2002": 16215
+  },
+  {
+    "city": "Pecica",
+    "county": "Arad",
+    "population_2011": 12762,
+    "population_2002": 13024
+  },
+  {
+    "city": "Simeria",
+    "county": "Hunedoara",
+    "population_2011": 12556,
+    "population_2002": 14571
+  },
+  {
+    "city": "Moldova Noua",
+    "county": "Caras-Severin",
+    "population_2011": 12350,
+    "population_2002": 15112
+  },
+  {
+    "city": "Sannicolau Mare",
+    "county": "Timis",
+    "population_2011": 12312,
+    "population_2002": 13007
+  },
+  {
+    "city": "Valenii de Munte",
+    "county": "Prahova",
+    "population_2011": 12257,
+    "population_2002": 13898
+  },
+  {
+    "city": "Darmanesti",
+    "county": "Bacau",
+    "population_2011": 12247,
+    "population_2002": 14232
+  },
+  {
+    "city": "Dabuleni",
+    "county": "Dolj",
+    "population_2011": 12182,
+    "population_2002": 13888
+  },
+  {
+    "city": "Comarnic",
+    "county": "Prahova",
+    "population_2011": 11970,
+    "population_2002": 13532
+  },
+  {
+    "city": "Negresti-Oas",
+    "county": "Satu Mare",
+    "population_2011": 11867,
+    "population_2002": 16356
+  },
+  {
+    "city": "Rovinari",
+    "county": "Gorj",
+    "population_2011": 11816,
+    "population_2002": 12603
+  },
+  {
+    "city": "Scornicesti",
+    "county": "Olt",
+    "population_2011": 11766,
+    "population_2002": 13751
+  },
+  {
+    "city": "Targu Lapus",
+    "county": "Maramures",
+    "population_2011": 11744,
+    "population_2002": 14139
+  },
+  {
+    "city": "Sacueni",
+    "county": "Bihor",
+    "population_2011": 11526,
+    "population_2002": 11665
+  },
+  {
+    "city": "Videle",
+    "county": "Teleorman",
+    "population_2011": 11508,
+    "population_2002": 12498
+  },
+  {
+    "city": "Santana",
+    "county": "Arad",
+    "population_2011": 11428,
+    "population_2002": 12936
+  },
+  {
+    "city": "Oravita",
+    "county": "Caras-Severin",
+    "population_2011": 11382,
+    "population_2002": 15222
+  },
+  {
+    "city": "Targu Ocna",
+    "county": "Bacau",
+    "population_2011": 11300,
+    "population_2002": 14184
+  },
+  {
+    "city": "Calan",
+    "county": "Hunedoara",
+    "population_2011": 11279,
+    "population_2002": 14714
+  },
+  {
+    "city": "Boldesti-Scaeni",
+    "county": "Prahova",
+    "population_2011": 11137,
+    "population_2002": 11505
+  },
+  {
+    "city": "Magurele",
+    "county": "Ilfov",
+    "population_2011": 11041,
+    "population_2002": 9200
+  },
+  {
+    "city": "Harlau",
+    "county": "Iasi",
+    "population_2011": 10905,
+    "population_2002": 12260
+  },
+  {
+    "city": "Draganesti-Olt",
+    "county": "Olt",
+    "population_2011": 10894,
+    "population_2002": 13181
+  },
+  {
+    "city": "Jimbolia",
+    "county": "Timis",
+    "population_2011": 10808,
+    "population_2002": 10497
+  },
+  {
+    "city": "Marasesti",
+    "county": "Vrancea",
+    "population_2011": 10671,
+    "population_2002": 13070
+  },
+  {
+    "city": "Beius",
+    "county": "Bihor",
+    "population_2011": 10667,
+    "population_2002": 12089
+  },
+  {
+    "city": "Beclean",
+    "county": "Bistrita-Nasaud",
+    "population_2011": 10628,
+    "population_2002": 12033
+  },
+  {
+    "city": "Urlati",
+    "county": "Prahova",
+    "population_2011": 10541,
+    "population_2002": 11858
+  },
+  {
+    "city": "Otelu Rosu",
+    "county": "Caras-Severin",
+    "population_2011": 10510,
+    "population_2002": 13128
+  },
+  {
+    "city": "Strehaia",
+    "county": "Mehedinti",
+    "population_2011": 10506,
+    "population_2002": 12564
+  },
+  {
+    "city": "Targu Frumos",
+    "county": "Iasi",
+    "population_2011": 10475,
+    "population_2002": 13763
+  },
+  {
+    "city": "Orsova",
+    "county": "Mehedinti",
+    "population_2011": 10441,
+    "population_2002": 15379
+  },
+  {
+    "city": "Sinaia",
+    "county": "Prahova",
+    "population_2011": 10410,
+    "population_2002": 14636
+  },
+  {
+    "city": "Jibou",
+    "county": "Salaj",
+    "population_2011": 10407,
+    "population_2002": 12283
+  },
+  {
+    "city": "Sovata",
+    "county": "Mures",
+    "population_2011": 10385,
+    "population_2002": 12219
+  },
+  {
+    "city": "Costesti",
+    "county": "Arges",
+    "population_2011": 10375,
+    "population_2002": 12091
+  },
+  {
+    "city": "Ianca",
+    "county": "Braila",
+    "population_2011": 10343,
+    "population_2002": 12886
+  },
+  {
+    "city": "Lipova",
+    "county": "Arad",
+    "population_2011": 10313,
+    "population_2002": 11491
+  },
+  {
+    "city": "Dolhasca",
+    "county": "Suceava",
+    "population_2011": 10298,
+    "population_2002": 11009
+  },
+  {
+    "city": "Topoloveni",
+    "county": "Arges",
+    "population_2011": 10219,
+    "population_2002": 10329
+  },
+  {
+    "city": "Murfatlar",
+    "county": "Constanta",
+    "population_2011": 10216,
+    "population_2002": 10857
+  },
+  {
+    "city": "Nehoiu",
+    "county": "Buzau",
+    "population_2011": 10211,
+    "population_2002": 12650
+  },
+  {
+    "city": "Flamanzi",
+    "county": "Botosani",
+    "population_2011": 10136,
+    "population_2002": 11799
+  },
+  {
+    "city": "Covasna",
+    "county": "Covasna",
+    "population_2011": 10114,
+    "population_2002": 12306
+  },
+  {
+    "city": "Alesd",
+    "county": "Bihor",
+    "population_2011": 10066,
+    "population_2002": 10852
+  },
+  {
+    "city": "Valea lui Mihai",
+    "county": "Bihor",
+    "population_2011": 9902,
+    "population_2002": 10665
+  },
+  {
+    "city": "Darabani",
+    "county": "Botosani",
+    "population_2011": 9893,
+    "population_2002": 12002
+  },
+  {
+    "city": "Hateg",
+    "county": "Hunedoara",
+    "population_2011": 9685,
+    "population_2002": 12507
+  },
+  {
+    "city": "Sangeorz-Bai",
+    "county": "Bistrita-Nasaud",
+    "population_2011": 9679,
+    "population_2002": 10702
+  },
+  {
+    "city": "Titu",
+    "county": "Dambovita",
+    "population_2011": 9658,
+    "population_2002": 10711
+  },
+  {
+    "city": "Cristuru Secuiesc",
+    "county": "Harghita",
+    "population_2011": 9650,
+    "population_2002": 11291
+  },
+  {
+    "city": "Harsova",
+    "county": "Constanta",
+    "population_2011": 9642,
+    "population_2002": 11198
+  },
+  {
+    "city": "Liteni",
+    "county": "Suceava",
+    "population_2011": 9596,
+    "population_2002": 9851
+  },
+  {
+    "city": "Nasaud",
+    "county": "Bistrita-Nasaud",
+    "population_2011": 9587,
+    "population_2002": 11365
+  },
+  {
+    "city": "Podu Iloaiei",
+    "county": "Iasi",
+    "population_2011": 9573,
+    "population_2002": 9739
+  },
+  {
+    "city": "Eforie",
+    "county": "Constanta",
+    "population_2011": 9473,
+    "population_2002": 9294
+  },
+  {
+    "city": "Odobesti",
+    "county": "Vrancea",
+    "population_2011": 9364,
+    "population_2002": 8000
+  },
+  {
+    "city": "Huedin",
+    "county": "Cluj",
+    "population_2011": 9346,
+    "population_2002": 9955
+  },
+  {
+    "city": "Ineu",
+    "county": "Arad",
+    "population_2011": 9260,
+    "population_2002": 10416
+  },
+  {
+    "city": "Salcea",
+    "county": "Suceava",
+    "population_2011": 9015,
+    "population_2002": 8719
+  },
+  {
+    "city": "Seini",
+    "county": "Maramures",
+    "population_2011": 8987,
+    "population_2002": 9439
+  },
+  {
+    "city": "Uricani",
+    "county": "Hunedoara",
+    "population_2011": 8972,
+    "population_2002": 12177
+  },
+  {
+    "city": "Babadag",
+    "county": "Tulcea",
+    "population_2011": 8940,
+    "population_2002": 10878
+  },
+  {
+    "city": "Bumbesti-Jiu",
+    "county": "Gorj",
+    "population_2011": 8932,
+    "population_2002": 11882
+  },
+  {
+    "city": "Busteni",
+    "county": "Prahova",
+    "population_2011": 8894,
+    "population_2002": 11787
+  },
+  {
+    "city": "Agnita",
+    "county": "Sibiu",
+    "population_2011": 8732,
+    "population_2002": 12115
+  },
+  {
+    "city": "Iernut",
+    "county": "Mures",
+    "population_2011": 8705,
+    "population_2002": 9833
+  },
+  {
+    "city": "Baraolt",
+    "county": "Covasna",
+    "population_2011": 8672,
+    "population_2002": 10464
+  },
+  {
+    "city": "Tasnad",
+    "county": "Satu Mare",
+    "population_2011": 8631,
+    "population_2002": 10188
+  },
+  {
+    "city": "Roznov",
+    "county": "Neamt",
+    "population_2011": 8593,
+    "population_2002": 9171
+  },
+  {
+    "city": "Babeni",
+    "county": "Valcea",
+    "population_2011": 8451,
+    "population_2002": 9475
+  },
+  {
+    "city": "Negresti",
+    "county": "Vaslui",
+    "population_2011": 8380,
+    "population_2002": 10481
+  },
+  {
+    "city": "Recas",
+    "county": "Timis",
+    "population_2011": 8336,
+    "population_2002": 8560
+  },
+  {
+    "city": "Macin",
+    "county": "Tulcea",
+    "population_2011": 8245,
+    "population_2002": 11803
+  },
+  {
+    "city": "Targu Carbunesti",
+    "county": "Gorj",
+    "population_2011": 8034,
+    "population_2002": 9338
+  },
+  {
+    "city": "Chisineu-Cris",
+    "county": "Arad",
+    "population_2011": 7987,
+    "population_2002": 8724
+  },
+  {
+    "city": "Siret",
+    "county": "Suceava",
+    "population_2011": 7976,
+    "population_2002": 10003
+  },
+  {
+    "city": "Mihailesti",
+    "county": "Giurgiu",
+    "population_2011": 7923,
+    "population_2002": 7161
+  },
+  {
+    "city": "Budesti",
+    "county": "Calarasi",
+    "population_2011": 7725,
+    "population_2002": 9596
+  },
+  {
+    "city": "Plopeni",
+    "county": "Prahova",
+    "population_2011": 7718,
+    "population_2002": 10083
+  },
+  {
+    "city": "Panciu",
+    "county": "Vrancea",
+    "population_2011": 7664,
+    "population_2002": 9834
+  },
+  {
+    "city": "Calimanesti",
+    "county": "Valcea",
+    "population_2011": 7622,
+    "population_2002": 8923
+  },
+  {
+    "city": "Fieni",
+    "county": "Dambovita",
+    "population_2011": 7587,
+    "population_2002": 8092
+  },
+  {
+    "city": "Somcuta Mare",
+    "county": "Maramures",
+    "population_2011": 7565,
+    "population_2002": 7708
+  },
+  {
+    "city": "Intorsura Buzaului",
+    "county": "Covasna",
+    "population_2011": 7528,
+    "population_2002": 9081
+  },
+  {
+    "city": "Zlatna",
+    "county": "Alba",
+    "population_2011": 7490,
+    "population_2002": 9254
+  },
+  {
+    "city": "Anina",
+    "county": "Caras-Severin",
+    "population_2011": 7485,
+    "population_2002": 10594
+  },
+  {
+    "city": "Curtici",
+    "county": "Arad",
+    "population_2011": 7453,
+    "population_2002": 9762
+  },
+  {
+    "city": "Nadlac",
+    "county": "Arad",
+    "population_2011": 7398,
+    "population_2002": 8422
+  },
+  {
+    "city": "Dumbraveni",
+    "county": "Sibiu",
+    "population_2011": 7388,
+    "population_2002": 8812
+  },
+  {
+    "city": "Victoria",
+    "county": "Brasov",
+    "population_2011": 7386,
+    "population_2002": 9059
+  },
+  {
+    "city": "Amara",
+    "county": "Ialomita",
+    "population_2011": 7345,
+    "population_2002": 7627
+  },
+  {
+    "city": "Patarlagele",
+    "county": "Buzau",
+    "population_2011": 7304,
+    "population_2002": 8290
+  },
+  {
+    "city": "Techirghiol",
+    "county": "Constanta",
+    "population_2011": 7292,
+    "population_2002": 7388
+  },
+  {
+    "city": "Pogoanele",
+    "county": "Buzau",
+    "population_2011": 7275,
+    "population_2002": 7614
+  },
+  {
+    "city": "Ulmeni",
+    "county": "Maramures",
+    "population_2011": 7270,
+    "population_2002": 7153
+  },
+  {
+    "city": "Turceni",
+    "county": "Gorj",
+    "population_2011": 7269,
+    "population_2002": 8559
+  },
+  {
+    "city": "Campeni",
+    "county": "Alba",
+    "population_2011": 7221,
+    "population_2002": 8587
+  },
+  {
+    "city": "Cehu Silvaniei",
+    "county": "Salaj",
+    "population_2011": 7214,
+    "population_2002": 8468
+  },
+  {
+    "city": "Tautii-Magheraus",
+    "county": "Maramures",
+    "population_2011": 7136,
+    "population_2002": 6713
+  },
+  {
+    "city": "Murgeni",
+    "county": "Vaslui",
+    "population_2011": 7119,
+    "population_2002": 7674
+  },
+  {
+    "city": "Tismana",
+    "county": "Gorj",
+    "population_2011": 7035,
+    "population_2002": 7894
+  },
+  {
+    "city": "Buzias",
+    "county": "Timis",
+    "population_2011": 7023,
+    "population_2002": 8128
+  },
+  {
+    "city": "Segarcea",
+    "county": "Dolj",
+    "population_2011": 7019,
+    "population_2002": 8704
+  },
+  {
+    "city": "Saveni",
+    "county": "Botosani",
+    "population_2011": 6999,
+    "population_2002": 8685
+  },
+  {
+    "city": "Pancota",
+    "county": "Arad",
+    "population_2011": 6946,
+    "population_2002": 7418
+  },
+  {
+    "city": "Ungheni",
+    "county": "Mures",
+    "population_2011": 6945,
+    "population_2002": 6554
+  },
+  {
+    "city": "Sarmasu",
+    "county": "Mures",
+    "population_2011": 6942,
+    "population_2002": 7493
+  },
+  {
+    "city": "Racari",
+    "county": "Dambovita",
+    "population_2011": 6930,
+    "population_2002": 6892
+  },
+  {
+    "city": "Talmaciu",
+    "county": "Sibiu",
+    "population_2011": 6905,
+    "population_2002": 9147
+  },
+  {
+    "city": "Cajvana",
+    "county": "Suceava",
+    "population_2011": 6901,
+    "population_2002": 7263
+  },
+  {
+    "city": "Vlahita",
+    "county": "Harghita",
+    "population_2011": 6898,
+    "population_2002": 7392
+  },
+  {
+    "city": "Fundulea",
+    "county": "Calarasi",
+    "population_2011": 6851,
+    "population_2002": 6217
+  },
+  {
+    "city": "Livada",
+    "county": "Satu Mare",
+    "population_2011": 6773,
+    "population_2002": 7004
+  },
+  {
+    "city": "Faget",
+    "county": "Timis",
+    "population_2011": 6761,
+    "population_2002": 7519
+  },
+  {
+    "city": "Teius",
+    "county": "Alba",
+    "population_2011": 6695,
+    "population_2002": 7338
+  },
+  {
+    "city": "Bicaz",
+    "county": "Neamt",
+    "population_2011": 6543,
+    "population_2002": 8911
+  },
+  {
+    "city": "Stei",
+    "county": "Bihor",
+    "population_2011": 6529,
+    "population_2002": 9466
+  },
+  {
+    "city": "Insuratei",
+    "county": "Braila",
+    "population_2011": 6528,
+    "population_2002": 7501
+  },
+  {
+    "city": "Lehliu Gara",
+    "county": "Calarasi",
+    "population_2011": 6502,
+    "population_2002": 6667
+  },
+  {
+    "city": "Targu Bujor",
+    "county": "Galati",
+    "population_2011": 6299,
+    "population_2002": 8044
+  },
+  {
+    "city": "Piatra-Olt",
+    "county": "Olt",
+    "population_2011": 6299,
+    "population_2002": 6583
+  },
+  {
+    "city": "Horezu",
+    "county": "Valcea",
+    "population_2011": 6263,
+    "population_2002": 7446
+  },
+  {
+    "city": "Deta",
+    "county": "Timis",
+    "population_2011": 6260,
+    "population_2002": 6423
+  },
+  {
+    "city": "Ardud",
+    "county": "Satu Mare",
+    "population_2011": 6231,
+    "population_2002": 6486
+  },
+  {
+    "city": "Balan",
+    "county": "Harghita",
+    "population_2011": 6115,
+    "population_2002": 9295
+  },
+  {
+    "city": "Slanic",
+    "county": "Prahova",
+    "population_2011": 6034,
+    "population_2002": 7249
+  },
+  {
+    "city": "Brezoi",
+    "county": "Valcea",
+    "population_2011": 6022,
+    "population_2002": 7589
+  },
+  {
+    "city": "Sebis",
+    "county": "Arad",
+    "population_2011": 5979,
+    "population_2002": 6829
+  },
+  {
+    "city": "Frasin",
+    "county": "Suceava",
+    "population_2011": 5876,
+    "population_2002": 6532
+  },
+  {
+    "city": "Gataia",
+    "county": "Timis",
+    "population_2011": 5861,
+    "population_2002": 8103
+  },
+  {
+    "city": "Potcoava",
+    "county": "Olt",
+    "population_2011": 5743,
+    "population_2002": 6111
+  },
+  {
+    "city": "Miercurea Nirajului",
+    "county": "Mures",
+    "population_2011": 5554,
+    "population_2002": 5824
+  },
+  {
+    "city": "Brosteni",
+    "county": "Suceava",
+    "population_2011": 5506,
+    "population_2002": 6603
+  },
+  {
+    "city": "Novaci",
+    "county": "Gorj",
+    "population_2011": 5431,
+    "population_2002": 6151
+  },
+  {
+    "city": "Saliste",
+    "county": "Sibiu",
+    "population_2011": 5421,
+    "population_2002": 6092
+  },
+  {
+    "city": "Copsa Mica",
+    "county": "Sibiu",
+    "population_2011": 5404,
+    "population_2002": 5157
+  },
+  {
+    "city": "Baneasa",
+    "county": "Constanta",
+    "population_2011": 5384,
+    "population_2002": 5538
+  },
+  {
+    "city": "Baia de Arama",
+    "county": "Mehedinti",
+    "population_2011": 5349,
+    "population_2002": 5724
+  },
+  {
+    "city": "Ciacova",
+    "county": "Timis",
+    "population_2011": 5348,
+    "population_2002": 7285
+  },
+  {
+    "city": "Stefanesti",
+    "county": "Botosani",
+    "population_2011": 5314,
+    "population_2002": 5628
+  },
+  {
+    "city": "Vanju Mare",
+    "county": "Mehedinti",
+    "population_2011": 5311,
+    "population_2002": 7074
+  },
+  {
+    "city": "Geoagiu",
+    "county": "Hunedoara",
+    "population_2011": 5294,
+    "population_2002": 6290
+  },
+  {
+    "city": "Rupea",
+    "county": "Brasov",
+    "population_2011": 5269,
+    "population_2002": 6246
+  },
+  {
+    "city": "Sangeorgiu de Padure",
+    "county": "Mures",
+    "population_2011": 5166,
+    "population_2002": 5492
+  },
+  {
+    "city": "Negru Voda",
+    "county": "Constanta",
+    "population_2011": 5088,
+    "population_2002": 5529
+  },
+  {
+    "city": "Abrud",
+    "county": "Alba",
+    "population_2011": 5072,
+    "population_2002": 6803
+  },
+  {
+    "city": "Isaccea",
+    "county": "Tulcea",
+    "population_2011": 5026,
+    "population_2002": 5374
+  },
+  {
+    "city": "Baile Herculane",
+    "county": "Caras-Severin",
+    "population_2011": 5008,
+    "population_2002": 6051
+  },
+  {
+    "city": "Milisauti",
+    "county": "Suceava",
+    "population_2011": 5005,
+    "population_2002": 8433
+  },
+  {
+    "city": "Cavnic",
+    "county": "Maramures",
+    "population_2011": 4976,
+    "population_2002": 5494
+  },
+  {
+    "city": "Fierbinti-Targ",
+    "county": "Ialomita",
+    "population_2011": 4969,
+    "population_2002": 5253
+  },
+  {
+    "city": "Salistea de Sus",
+    "county": "Maramures",
+    "population_2011": 4893,
+    "population_2002": 5196
+  },
+  {
+    "city": "Balcesti",
+    "county": "Valcea",
+    "population_2011": 4864,
+    "population_2002": 5780
+  },
+  {
+    "city": "Berbesti",
+    "county": "Valcea",
+    "population_2011": 4836,
+    "population_2002": 5704
+  },
+  {
+    "city": "Predeal",
+    "county": "Brasov",
+    "population_2011": 4755,
+    "population_2002": 5615
+  },
+  {
+    "city": "Ghimbav",
+    "county": "Brasov",
+    "population_2011": 4698,
+    "population_2002": 5112
+  },
+  {
+    "city": "Azuga",
+    "county": "Prahova",
+    "population_2011": 4440,
+    "population_2002": 6119
+  },
+  {
+    "city": "Ticleni",
+    "county": "Gorj",
+    "population_2011": 4414,
+    "population_2002": 5205
+  },
+  {
+    "city": "Aninoasa",
+    "county": "Hunedoara",
+    "population_2011": 4360,
+    "population_2002": 6108
+  },
+  {
+    "city": "Bucecea",
+    "county": "Botosani",
+    "population_2011": 4274,
+    "population_2002": 5128
+  },
+  {
+    "city": "Slanic Moldova",
+    "county": "Bacau",
+    "population_2011": 4198,
+    "population_2002": 5375
+  },
+  {
+    "city": "Baile Olanesti",
+    "county": "Valcea",
+    "population_2011": 4186,
+    "population_2002": 4814
+  },
+  {
+    "city": "Miercurea Sibiului",
+    "county": "Sibiu",
+    "population_2011": 3910,
+    "population_2002": 4063
+  },
+  {
+    "city": "Sulina",
+    "county": "Tulcea",
+    "population_2011": 3663,
+    "population_2002": 5140
+  },
+  {
+    "city": "Bechet",
+    "county": "Dolj",
+    "population_2011": 3657,
+    "population_2002": 3864
+  },
+  {
+    "city": "Faurei",
+    "county": "Braila",
+    "population_2011": 3592,
+    "population_2002": 4626
+  },
+  {
+    "city": "Ocna Sibiului",
+    "county": "Sibiu",
+    "population_2011": 3562,
+    "population_2002": 4184
+  },
+  {
+    "city": "Baia de Aries",
+    "county": "Alba",
+    "population_2011": 3461,
+    "population_2002": 4877
+  },
+  {
+    "city": "Ocnele Mari",
+    "county": "Valcea",
+    "population_2011": 3309,
+    "population_2002": 3591
+  },
+  {
+    "city": "Cazanesti",
+    "county": "Ialomita",
+    "population_2011": 3271,
+    "population_2002": 3641
+  },
+  {
+    "city": "Dragomiresti",
+    "county": "Maramures",
+    "population_2011": 3213,
+    "population_2002": 3132
+  },
+  {
+    "city": "Beresti",
+    "county": "Galati",
+    "population_2011": 2916,
+    "population_2002": 3926
+  },
+  {
+    "city": "Borsec",
+    "county": "Harghita",
+    "population_2011": 2585,
+    "population_2002": 3109
+  },
+  {
+    "city": "Baile Govora",
+    "county": "Valcea",
+    "population_2011": 2449,
+    "population_2002": 3147
+  },
+  {
+    "city": "Vascau",
+    "county": "Bihor",
+    "population_2011": 2315,
+    "population_2002": 3032
+  },
+  {
+    "city": "Solca",
+    "county": "Suceava",
+    "population_2011": 2188,
+    "population_2002": 4687
+  },
+  {
+    "city": "Nucet",
+    "county": "Bihor",
+    "population_2011": 2165,
+    "population_2002": 2851
+  },
+  {
+    "city": "Baile Tusnad",
+    "county": "Harghita",
+    "population_2011": 1641,
+    "population_2002": 1802
+  }
+]
