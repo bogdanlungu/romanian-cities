@@ -54,12 +54,11 @@ describe('The cities', () => {
   })
 
   it('should have all county names as strings and beggining with a capital letter', () => {
-    const checkCitiesNames = cities.all.map((v) => {
+    const checkCountyNames = cities.all.map((v) => {
       if (v.city !== 'Bucuresti') { // Bucuresti has no county
         if ((typeof v.county === 'string') && (v.county[0] === v.county[0].toUpperCase())) {
           return true
         } else {
-          console.log(v.county)
           return false
         }
       }
@@ -69,6 +68,22 @@ describe('The cities', () => {
       return element === false
     }
 
-    expect(!checkCitiesNames.some(checkFalse)).toBe(true)
+    expect(!checkCountyNames.some(checkFalse)).toBe(true)
+  })
+
+  it('should have the population values as numbers and greater than 0', () => {
+    const checkPopulationValues = cities.all.map((v) => {
+      if ((typeof v.population_2002 === 'number' && typeof v.population_2011 === 'number') && (v.population_2002 > 0 && v.population_2011 > 0)) {
+        return true
+      } else {
+        return false
+      }
+    })
+
+    const checkFalse = function (element) {
+      return element === false
+    }
+
+    expect(!checkPopulationValues.some(checkFalse)).toBe(true)
   })
 })
