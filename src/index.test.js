@@ -1,5 +1,4 @@
-// import * as cities from '.'
-const cities = require('.')
+import * as cities from '.'
 
 const bucharest = [{
   'city': 'Bucuresti',
