@@ -21,6 +21,17 @@ describe('The cities', () => {
     expect(cities.all).toEqual(expect.arrayContaining(randomItem))
   })
 
+  it('should return an array of 3 random cities', () => {
+    const randomCities = cities.random(3)
+    expect(Array.isArray(randomCities)).toBe(true)
+  })
+
+  it('should return an array of 1 random city from the all cities list', () => {
+    const randomCities = [cities.random(2)]
+    const cityInsideArray = randomCities[0]
+    expect(cities.all).toEqual(expect.arrayContaining(cityInsideArray))
+  })
+
   it('should be an array of objects', () => {
     const checkObject = cities.all.map((v) => {
       if (typeof v === 'object') {
