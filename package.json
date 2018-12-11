@@ -1,6 +1,6 @@
 {
   "name": "romanian-cities",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "All the cities in Romania with their population based on the 2002 and 2011 censuses.",
   "main": "build/index.js",
   "scripts": {
