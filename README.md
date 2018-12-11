@@ -1,5 +1,9 @@
 # romanian-cities
 
+![](https://img.shields.io/travis/com/bogdanlungu/romanian-cities.svg)
+![](https://img.shields.io/github/last-commit/bogdanlungu/romanian-cities.svg)
+![](https://img.shields.io/david/bogdanlungu/romanian-cities.svg)
+
 All the cities in Romania with their population based on the 2002 and 2011 censuses.
 
 ## Installation
