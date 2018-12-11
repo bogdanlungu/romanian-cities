@@ -9,7 +9,8 @@
     "lint": "eslint src/**.js",
     "test": "jest --coverage",
     "test:watch": "npm test -- --watch",
-    "prepublish": "npm run build"
+    "prepublish": "npm run build",
+    "release": "np"
   },
   "babel": {
     "presets": [
@@ -45,6 +46,7 @@
     "eslint-plugin-promise": "^4.0.1",
     "eslint-plugin-standard": "^4.0.0",
     "jest": "^23.6.0",
+    "np": "^3.0.4",
     "watch": "^1.0.2"
   },
   "dependencies": {
