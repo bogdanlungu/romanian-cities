@@ -30,7 +30,7 @@
     "geolocation"
   ],
   "author": "Bogdan Lungu",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/bogdanlungu/romanian-cities/issues"
   },
