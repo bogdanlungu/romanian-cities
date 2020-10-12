@@ -9,7 +9,7 @@
     "lint": "eslint src/**.js",
     "test": "jest --coverage",
     "test:watch": "npm test -- --watch",
-    "prepublish": "npm run build"
+    "prepare": "npm run build"
   },
   "babel": {
     "presets": [
