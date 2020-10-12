@@ -36,9 +36,9 @@ describe('The cities', () => {
     const checkObject = cities.all.map((v) => {
       if (typeof v === 'object') {
         return true
-      } else {
-        return false
       }
+
+      return false
     })
 
     const checkFalse = (element) => {
@@ -49,12 +49,12 @@ describe('The cities', () => {
   })
 
   it('should have all city names as strings and beggining with a capital letter', () => {
-    const checkCitiesNames = cities.all.map((v) => {
-      if ((typeof v.city === 'string') && (v.city[0] === v.city[0].toUpperCase())) {
+    const checkCitiesNames = cities.all.map(({ city }) => {
+      if ((typeof city === 'string') && (city[0] === city[0].toUpperCase())) {
         return true
-      } else {
-        return false
       }
+
+      return false
     })
 
     const checkFalse = function (element) {
@@ -65,13 +65,13 @@ describe('The cities', () => {
   })
 
   it('should have all county names as strings and beggining with a capital letter', () => {
-    const checkCountyNames = cities.all.map((v) => {
-      if (v.city !== 'Bucuresti') { // Bucuresti has no county
-        if ((typeof v.county === 'string') && (v.county[0] === v.county[0].toUpperCase())) {
+    const checkCountyNames = cities.all.map(({ city, county }) => {
+      if (city !== 'Bucuresti') {
+        if ((typeof county === 'string') && (county[0] === county[0].toUpperCase())) {
           return true
-        } else {
-          return false
         }
+
+        return false
       }
     })
 
@@ -83,12 +83,12 @@ describe('The cities', () => {
   })
 
   it('should have the population values as numbers and greater than 0', () => {
-    const checkPopulationValues = cities.all.map((v) => {
-      if ((typeof v.population_2002 === 'number' && typeof v.population_2011 === 'number') && (v.population_2002 > 0 && v.population_2011 > 0)) {
+    const checkPopulationValues = cities.all.map(({ population_2002, population_2011}) => {
+      if ((typeof population_2002 === 'number' && typeof population_2011 === 'number') && (population_2002 > 0 && population_2011 > 0)) {
         return true
-      } else {
-        return false
       }
+
+      return false
     })
 
     const checkFalse = function (element) {
