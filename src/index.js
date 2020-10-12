@@ -10,6 +10,7 @@ export function random (number) {
    * It returns one random city from the list if no argument is specfied
    * @param {number} number the number of random cities that will be returned
    */
+
   if (number === undefined) {
     return getRandomCity()
   } else {
@@ -18,6 +19,7 @@ export function random (number) {
     result.map(() => {
       randomItems.push(getRandomCity())
     })
+
     return randomItems
   }
 }
