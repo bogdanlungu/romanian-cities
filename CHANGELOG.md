@@ -3,6 +3,10 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
+## [1.0.3] - 2019-01-10
+### Added
+- Updated packages and tests.
+
 ## [1.0.2] - 2019-01-10
 ### Added
 - Changelog.
